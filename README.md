@@ -6,6 +6,12 @@ The application implements a simple login system with progressive validation rul
 
 ---
 
+> **Note:**  
+> The complete source code for this project is available in the `dev` branch.  
+> The `main` branch contains only project overview and documentation.
+
+---
+
 # Technologies Used
 
 - Java
